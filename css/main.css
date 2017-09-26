@@ -1,0 +1,140 @@
+* {
+	font-family: "Raleway", sans-serif;
+}
+
+nav {
+	background-color: #FE7F00;
+	height: 100px;
+	left: 0;
+	right: 0;
+}
+
+nav > a {
+	color: #fff;
+	font-size: 30px;
+	text-decoration: none;
+	position: absolute;
+	text-align: left;
+	margin: 25px;
+	padding-left: 80px;
+}
+
+nav span {
+	font-weight: bold;
+}
+
+nav ul {
+	position: absolute;	
+	right: 25px;
+	top: 30px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+nav li {
+	display: inline-block;
+	padding: 0 20px;
+}
+
+nav li > a {
+	color: #fff;
+	text-decoration: none;
+	-webkit-transition: all 0.3s ease-in-out;
+			transition: all 0.3s ease-in-out;
+}
+
+nav li > a:hover,
+nav li > a:focus {
+	color: #000;
+}
+
+div {
+	width: 40%;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+img {
+	max-width: 100%;
+}
+
+input {
+	text-align: left;
+	vertical-align: right;
+	height: 30px;
+	width: 200px;
+	font-size: 15px;
+	text-transform: uppercase;
+}
+
+p {
+	font-size: 30px;
+	line-height: 50px;
+	text-align: left;
+	color: #FE7F00;
+}
+
+p > span {
+	font-weight: 900;
+}
+
+.mybutton {
+	display: inline-block;
+	width: 200px;
+	height: 50px;
+	font-size: 14px;
+	text-align: center;
+	text-transform: uppercase;
+	border: 1px solid #FFF;
+	color: #FFF;
+}
+.search {
+	position: absolute;
+	right: 0;
+	width: initial;
+	text-align: center;
+}
+
+.container {
+	width: 100%;
+	text-align: center;
+}
+
+.orangelogo {
+	padding-left: 60px;
+	margin-top: 20px;
+}
+
+#get-a-quote {
+	background-color: #FE7F00;
+}
+
+#view-case-studies {
+	background-color: #6fcded;
+}
+
+#blue {
+	color: #6fcded;
+}
+
+#siteFooter {
+	background-color: #6fcded;
+	padding: 50px 0;
+	margin-top: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
